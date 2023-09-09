@@ -1,0 +1,268 @@
+m255
+K3
+13
+cModel Technology
+dF:\Modelsim\examples
+T_opt
+VPLfbXjfgj67O7_9FY46?E0
+04 4 4 work test fast 0
+=1-c018501a8152-64a16175-1af-4760
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+valu
+IQX[Ve7MUd@O9R6H>OXPSn0
+VLMD9F:hMWQ_3PV?HTz6V23
+Z0 dE:\P1
+w1688288889
+8E:/P1/alu.v
+FE:/P1/alu.v
+L0 1
+Z1 OE;L;10.1a;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 gl`]Y^]zTU<OXgzBGbUd<2
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/alu.v|
+!s107 E:/P1/alu.v|
+!i10b 1
+!s85 0
+!s108 1688297838.764000
+valu_tb
+I]K9hD>j=e=dmg<Q?;PIHz3
+VL;=kgzZ7GJ2Reg7Z1GkmR2
+Z3 dE:\P1
+w1685627255
+8E:/P1/alu_tb.v
+FE:/P1/alu_tb.v
+L0 2
+R1
+r1
+31
+R2
+!s100 [jf2g9_zIF:@HF<3L0iHJ1
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/alu_tb.v|
+!s107 E:/P1/alu_tb.v|
+!i10b 1
+!s85 0
+!s108 1688297838.830000
+valuoutReg
+IjQe5T]cA`8JOO53Q[bnGO2
+VJa4aC=DLU16QQ@ITbLB_<0
+Z4 dE:\project2
+w1687514622
+8E:/project2/aluoutReg.v
+FE:/project2/aluoutReg.v
+L0 1
+R1
+r1
+31
+R2
+naluout@reg
+!s100 A@Dh<H]C2CRcPPFKAlJEf1
+!s90 -reportprogress|300|-work|work|-vopt|E:/project2/aluoutReg.v|
+!s108 1687699569.892000
+!s107 E:/project2/aluoutReg.v|
+!i10b 1
+!s85 0
+vcontroller
+Ic`bP[1VjK]a6OPHCH218m3
+VfD5ZOQk;oj`G:MinT=e?T3
+R3
+w1687760596
+8E:/P1/controller.v
+FE:/P1/controller.v
+L0 2
+R1
+r1
+31
+R2
+!s100 zASUcS=VY:@Db3TGn3m7I1
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/controller.v|
+!s107 E:/P1/define_code.vh|E:/P1/controller.v|
+!i10b 1
+!s85 0
+!s108 1688297838.901000
+vdm_1k
+I;=13_CT57eQ`?VTCak9aH0
+VHb_zdC1410ZkAGc[T]_4^2
+R3
+w1688294235
+8E:/P1/dm.v
+FE:/P1/dm.v
+L0 1
+R1
+r1
+31
+R2
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/dm.v|
+!s107 E:/P1/dm.v|
+!i10b 1
+!s100 7TN4Y7Yh2CKkIcC=iC7Vj0
+!s85 0
+!s108 1688297838.991000
+vextraReg
+I_^6Qia2<zA^oni;GHTn4^0
+VoGheb=;k><ac^>7aQnlFj3
+R4
+w1687587419
+8E:/project2/extraReg.v
+FE:/project2/extraReg.v
+L0 1
+R1
+r1
+31
+R2
+nextra@reg
+!s100 `560@Ti9mbAkBACaUQWY00
+!s90 -reportprogress|300|-work|work|-vopt|E:/project2/extraReg.v|
+!s108 1687699570.248000
+!s107 E:/project2/extraReg.v|
+!i10b 1
+!s85 0
+vim_1k
+I4?;e`fk1?Q]3OaF_R0VE:0
+VhWmVPd4oE5A1Xkle@lUIl2
+R3
+w1688297808
+8E:/P1/im.v
+FE:/P1/im.v
+L0 1
+R1
+r1
+31
+R2
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/im.v|
+!s107 E:/P1/im.v|
+!i10b 1
+!s100 296k5BPSH3zB^2;l5HXJE0
+!s85 0
+!s108 1688297839.076000
+vInsReader
+I;R5PL0V^3ChIhYfcPaZFg1
+V8]em=?P9aijN02o3nEWml0
+R4
+w1619242269
+8E:/project2/InsReader.v
+FE:/project2/InsReader.v
+L0 1
+R1
+r1
+31
+R2
+n@ins@reader
+!s100 e5JfTKzh@bS>SFG`g>_]T3
+!s90 -reportprogress|300|-work|work|-vopt|E:/project2/InsReader.v|
+!s108 1687699570.436000
+!s107 E:/project2/InsReader.v|
+!i10b 1
+!s85 0
+vmips
+IXl@^8a:AYeIA]R=DGjTeU0
+V^lO[ZOI0I1e8M8GJjI9B:3
+R3
+w1687760562
+8E:/P1/mips.v
+FE:/P1/mips.v
+L0 2
+R1
+r1
+31
+R2
+!s100 i6Sf[Lm15QQ7lcR;[SOA:0
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/mips.v|
+!s107 E:/P1/define_code.vh|E:/P1/mips.v|
+!i10b 1
+!s85 0
+!s108 1688297839.158000
+vnpc
+IzVoN:Vf1RC`iTbM><6eKa2
+VkR8E6jzfnQJ3=k[o`hLPL0
+R3
+w1687705364
+8E:/P1/npc.v
+FE:/P1/npc.v
+L0 1
+R1
+r1
+31
+R2
+!s100 W2:]8C4YYba;NQ8kQZhNU1
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/npc.v|
+!s107 E:/P1/npc.v|
+!i10b 1
+!s85 0
+!s108 1688297839.246000
+vPC_control
+Ih?f]ANgImYzN03cTGAVPf1
+VA3c7RDcPKocVRl6YF5aT<0
+R4
+w1687687762
+8E:/project2/PC_control.v
+FE:/project2/PC_control.v
+L0 1
+R1
+r1
+31
+R2
+n@p@c_control
+!s100 miLQBEV=SOlm@T^Bg[W;L2
+!s90 -reportprogress|300|-work|work|-vopt|E:/project2/PC_control.v|
+!s108 1687699570.721000
+!s107 E:/project2/PC_control.v|
+!i10b 1
+!s85 0
+vregisters
+IC?40A@7bZ?@ddA=7H4TJE1
+VCeUlaQP;oJflPPd[<=`2<0
+R3
+w1687756333
+8E:/P1/registers.v
+FE:/P1/registers.v
+L0 1
+R1
+r1
+31
+R2
+!s100 bOoh1_KSNM>P[4ObE>V3;3
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/registers.v|
+!s107 E:/P1/registers.v|
+!i10b 1
+!s85 0
+!s108 1688297839.312000
+vtest
+IL5bbU0SKKE@HXH3KL@47H1
+Vk<3<[f=78GX=_HO53D;7>3
+R3
+w1687513384
+8E:/P1/test.v
+FE:/P1/test.v
+L0 2
+R1
+r1
+31
+R2
+!s100 jW<JUzUNnh[iHK2:OikB^2
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/test.v|
+!s107 E:/P1/test.v|
+!i10b 1
+!s85 0
+!s108 1688297839.403000
+vtest_mips
+IhdNjdcnzEaF[QdFUUM0XP2
+Vl@`E]gBIabMg]FLX>P3LC2
+R3
+w1687422341
+8E:/P1/test_mips.v
+FE:/P1/test_mips.v
+L0 3
+R1
+r1
+31
+R2
+!s100 ^hWe[@b@IIGRGnEV@<P6j3
+!s90 -reportprogress|300|-work|work|-vopt|E:/P1/test_mips.v|
+!i10b 1
+!s85 0
+!s108 1688297839.488000
+!s107 E:/P1/test_mips.v|

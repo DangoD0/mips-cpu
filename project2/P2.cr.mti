@@ -1,0 +1,88 @@
+E:/project2/im.v {1 {vlog -work work -vopt E:/project2/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_1k
+
+Top level modules:
+	im_1k
+
+} {} {}} E:/project2/mips.v {1 {vlog -work work -vopt E:/project2/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} E:/project2/npc.v {1 {vlog -work work -vopt E:/project2/npc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} E:/project2/dm.v {1 {vlog -work work -vopt E:/project2/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_1k
+
+Top level modules:
+	dm_1k
+
+} {} {}} E:/project2/alu.v {1 {vlog -work work -vopt E:/project2/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} E:/project2/controller.v {1 {vlog -work work -vopt E:/project2/controller.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} E:/project2/define_code.vh {1 {vlog -work work -vopt E:/project2/define_code.vh
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} E:/project2/aluoutReg.v {1 {vlog -work work -vopt E:/project2/aluoutReg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module aluoutReg
+
+Top level modules:
+	aluoutReg
+
+} {} {}} E:/project2/registers.v {1 {vlog -work work -vopt E:/project2/registers.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} E:/project2/test.v {1 {vlog -work work -vopt E:/project2/test.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} E:/project2/extraReg.v {1 {vlog -work work -vopt E:/project2/extraReg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module extraReg
+
+Top level modules:
+	extraReg
+
+} {} {}} E:/project2/PC_control.v {1 {vlog -work work -vopt E:/project2/PC_control.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC_control
+
+Top level modules:
+	PC_control
+
+} {} {}} E:/project2/InsReader.v {1 {vlog -work work -vopt E:/project2/InsReader.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module InsReader
+
+Top level modules:
+	InsReader
+
+} {} {}}
